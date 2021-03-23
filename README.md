@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FOY21
-- 👀 I’m interested Product Design
+- 👋 Hi, I’m Francisco Olatunde
+- 👀 I’m interested in Product Design
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on product design projects
 - 📫 How to reach me: @phranceaseco4real@gmail.com
